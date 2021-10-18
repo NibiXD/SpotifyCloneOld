@@ -2,6 +2,6 @@ Esse projeto é um clone de uma versão antiga do Spotify. Foi criado acompanhan
 para por em prática meus conhecimentos adquiridos na cadeira de Bootstrap 4 e Design Responsivo,
 
 <div align="center">
-    <img src="imagens/Print.png">
+    <img src="imagens/print1.png">
     <img src="imagens/PrintSmallDevice.png">
 </div>
