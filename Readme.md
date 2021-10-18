@@ -3,5 +3,5 @@ para por em prática meus conhecimentos adquiridos na cadeira de Bootstrap 4 e D
 
 <div align="center">
     <img src="imagens/print1.png">
-    <img src="imagens/PrintSmallDevice.png">
+    <img src="imagens/Print2.png">
 </div>
